@@ -12,10 +12,16 @@ Roadmap Canary was built during the **IBM Bob 2.0 Hackathon** (September 2026).
 
 ## Demo Videos
 
+### Pitch & Walkthrough Video
+https://github.com/user-attachments/assets/731ff2df-4906-485d-9db3-7d29521f756e
+
+### Live Demo Session Recording
+https://github.com/user-attachments/assets/ec157a6c-27ae-47f9-94fa-489685053fcd
+
 | File | Description |
 |------|-------------|
-| [Roadmap_Canary_Pitch_v2.mp4](Roadmap_Canary_Pitch_v2.mp4) | Pitch video recording |
-| [0927.mov](0927.mov) | Demo session recording |
+| [Roadmap_Canary_Pitch_v2.mp4](Roadmap_Canary_Pitch_v2.mp4) | Pitch video recording (LFS binary) |
+| [0927.mov](0927.mov) | Demo session recording (LFS binary) |
 
 ## Reference Documents
 

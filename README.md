@@ -117,7 +117,20 @@ roadmap-canary ui
 
 The UI opens at `http://127.0.0.1:8765`. It accepts a repository in `owner/repo` form. Public target repositories are cloned over HTTPS. Private repositories require suitable Git credentials, or you can use **Use local repository**.
 
-## 🎬 Demo
+## 🎬 Demo Video
+
+Watch Roadmap Canary in action — detecting roadmap regressions and running bounded IBM Bob Rescue:
+
+https://github.com/user-attachments/assets/731ff2df-4906-485d-9db3-7d29521f756e
+
+<details>
+<summary><b>📺 Watch Extended Live Demo Session</b></summary>
+
+https://github.com/user-attachments/assets/ec157a6c-27ae-47f9-94fa-489685053fcd
+
+</details>
+
+## 🧪 Demo Scenarios
 
 Use the prepared demo repository to see Roadmap Canary in action:
 
